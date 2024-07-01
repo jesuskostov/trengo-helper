@@ -17,7 +17,7 @@
     'use strict';
 
     const scriptUrl = 'https://raw.githubusercontent.com/jesuskostov/trengo-helper/main/trengo-helper.user.js';
-    const version = '2024-04-08'; // Current version of your script
+    const version = '2024-07-01'; // Current version of your script
 
     function checkForUpdates() {
         GM_xmlhttpRequest({
