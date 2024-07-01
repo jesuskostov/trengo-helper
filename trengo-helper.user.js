@@ -57,7 +57,7 @@
         button.style.right = '10px';
         button.style.zIndex = '1000';
         button.style.padding = '0.8rem';
-        button.style.backgroundColor = '#007bff';
+        button.style.backgroundColor = 'red';
         button.style.color = 'white';
         button.style.border = 'none';
         button.style.borderRadius = '5px';
