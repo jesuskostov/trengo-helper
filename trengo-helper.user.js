@@ -5,9 +5,9 @@
 // @description  try to take over the world!
 // @author       You
 // @match        https://app.trengo.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=trengo.com                 
-// @updateURL    https://raw.githubusercontent.com/jesuskostov/trengo-helper/blob/main/trengo-helper.user.js
-// @downloadURL  https://raw.githubusercontent.com/jesuskostov/trengo-helper/blob/main/trengo-helper.user.js
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=trengo.com
+// @updateURL    https://raw.githubusercontent.com/jesuskostov/trengo-helper/main/trengo-helper.user.js
+// @downloadURL  https://raw.githubusercontent.com/jesuskostov/trengo-helper/main/trengo-helper.user.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_getValue
 // @grant        GM_setValue
@@ -16,7 +16,7 @@
 (function() {
     'use strict';
 
-    const scriptUrl = 'https://raw.githubusercontent.com/jesuskostov/trengo-helper/blob/main/trengo-helper.user.js';
+    const scriptUrl = 'https://raw.githubusercontent.com/jesuskostov/trengo-helper/main/trengo-helper.user.js';
     const version = '2024-04-08'; // Current version of your script
 
     function checkForUpdates() {
